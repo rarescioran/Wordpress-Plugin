@@ -40,6 +40,7 @@ function kwp_randombanner(){
         'http://placehold.it/350x150/0000FF'    
     );
     echo '<img src="'.$images[rand(0,2)].'">';
+    
 }
 
 
